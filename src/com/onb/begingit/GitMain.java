@@ -10,6 +10,7 @@ public class GitMain {
 	public void helloWorld(){
 		Assert.assertEquals(false, false);
 		Assert.assertEquals(true, true);
+		Assert.assertEquals(false, true);
 	}
 	
 	
