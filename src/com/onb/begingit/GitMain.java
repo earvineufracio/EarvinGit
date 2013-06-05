@@ -8,7 +8,7 @@ public class GitMain {
 
 	@Test
 	public void helloWorld(){
-		Assert.assertEquals(false, false);
+		Assert.assertEquals(false, true);
 	}
 	
 	
